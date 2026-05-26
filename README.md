@@ -143,9 +143,6 @@ Status   : Actively hunting bugs 🔴
 ## `$ cat stats.sh`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zoro0830&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0e&title_color=00e5ff&icon_color=00e5ff&text_color=c8dde6&ring_color=00e5ff" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoro0830&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0e&title_color=00e5ff&text_color=c8dde6" />
 </div>
 
 <div align="center">
