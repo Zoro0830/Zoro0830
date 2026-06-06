@@ -116,10 +116,9 @@ Status   : Actively hunting bugs 🔴
 ---
 
 ### 🟡 [Phish-Guard](https://github.com/Zoro0830/phish-guard)
-> Chrome extension using heuristic URL analysis to detect phishing — typosquatting, brand impersonation, and suspicious domain patterns with real-time warnings.
+> Chrome extension with explainable phishing detection — heuristic scoring for brand impersonation, password fields, and suspicious domains, with AI-assisted verdict reasoning powered by Llama 3 via Groq.
 
-`JavaScript` `Chrome MV3` `Heuristics`
-
+`JavaScript` `Chrome MV3` `Python` `Flask` `Llama 3` `Groq`
 ---
 
 ### 🟢 ZeroTrace *(B.Tech Capstone)*
